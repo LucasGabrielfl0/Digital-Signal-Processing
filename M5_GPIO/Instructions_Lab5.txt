@@ -1,0 +1,10 @@
+Lab 5: ADC
+This chapter there are 3 requested Tasks:
+- Lab 5_1:
+Display the 4 least significant bits of a counter variable
+
+- Lab 5_2:
+Running LED from left to right (LEDS 1 , 2, 3, 4) in order
+
+- Lab 5_5:
+Using GPIO 0 and 1 as inputs, one button stops the sequence, the other allows it to continue

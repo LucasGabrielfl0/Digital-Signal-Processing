@@ -1,0 +1,5 @@
+Lab 6: Interrupt
+This chapter has 1 requested Task, with 2 parts:
+
+- Lab 6_1:
+The counter from lab 5_1, but now uses Interrupt
